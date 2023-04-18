@@ -123,3 +123,22 @@ xl2tpd
 zsh
 
 sddm
+qt5-quickcontrols
+qt5-quickcontrols2
+base-devel
+bash-completion
+firefox
+xdg-user-dirs-gtk
+xorg
+xf86-video-intel
+
+alacritty
+bspwm
+sxhkd
+polybar
+rofi
+dunst
+lxappearance
+dmenu
+feh
+xfce4
